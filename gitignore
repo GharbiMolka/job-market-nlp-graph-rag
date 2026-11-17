@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Fichiers générés par le notebook
+artifacts/
+ner_annotation_template.csv
+ner_annotation_completed.csv
+
+# Divers
+.DS_Store
+.env

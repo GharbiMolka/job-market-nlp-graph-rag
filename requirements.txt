@@ -1,0 +1,15 @@
+datasets
+sentence-transformers
+gensim
+spacy
+networkx
+scikit-learn
+seaborn
+wordcloud
+pandas
+numpy
+matplotlib
+joblib
+streamlit
+torch
+jupyter
